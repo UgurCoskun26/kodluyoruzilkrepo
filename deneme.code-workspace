@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "editor.fontSize": 21,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
+  }
+}
